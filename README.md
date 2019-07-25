@@ -30,5 +30,5 @@ function resetarJogo(){
 botao.ondblclick = resetarJogo;
 ~~~
 ---
-###Jogue o Jogo!
-[Clique Aqui para Jogar]()
+### Jogue o Jogo!
+[Clique Aqui para Jogar](https://gabrielssturaro.github.io/405-jogo-das-cores/.)
